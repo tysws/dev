@@ -5,3 +5,6 @@ console.log("hi") // but
 function main() {
 return null;
 }  
+main()
+
+// 0
